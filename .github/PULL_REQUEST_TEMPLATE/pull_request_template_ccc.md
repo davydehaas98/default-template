@@ -21,13 +21,13 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] Test A
 - [ ] Test B
 
-**Hardware Configuration**:
+**Hardware Configuration:**
 - [ ] Dev Board
 - [ ] Test rack
 - [ ] DVT Boards
 - [ ] Production Boards
 
-**Software Configuration**:
+**Software Configuration:**
 * Operating System:
 * Software version:
 * Branch:
