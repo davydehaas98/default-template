@@ -1,4 +1,4 @@
-# Pull Request Template - Code Change Control
+# Pull Request Code Change Control
 
 ## Description
 
