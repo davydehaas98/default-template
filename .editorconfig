@@ -1,5 +1,4 @@
 ### Core ###
-
 root                    = true
 
 # All files
@@ -13,8 +12,8 @@ insert_final_newline    = true
 charset                 = utf-8-bom
 
 ### Dotnet Coding Conventions ###
-
 [*.{cs,vb}]
+
 # Organize usings
 dotnet_sort_system_directives_first                                 = true
 dotnet_separate_import_directive_groups                             = false
@@ -66,8 +65,8 @@ dotnet_naming_symbols.constant_fields.applicable_accessibilities    = *
 dotnet_naming_symbols.constant_fields.required_modifiers            = const
 
 ### Csharp Code Style Rules ###
-
 [*.cs]
+
 # var preferences
 csharp_style_var_for_built_in_types         = true:silent
 csharp_style_var_when_type_is_apparent      = true:silent
